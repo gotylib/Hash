@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\repos\Data Structures\Data Structures\HashTableWithOpenAddressing.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\repos\Data Structures\Data Structures\HashTableWithOpenAddressing.h(27,9): warning C4984: "if constexpr" — расширение языка C++17
+  Data Structures.vcxproj -> E:\repos\Data Structures\x64\Debug\Data Structures.exe
